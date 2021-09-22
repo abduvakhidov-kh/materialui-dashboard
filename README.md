@@ -1,3 +1,3 @@
-Link to dashboard https://stupefied-wright-30b694.netlify.app
+Link to dashboard https://dashboard-react-materialui.netlify.app/
 # Important
 In sidebar works only "Products" and "Users" pages
